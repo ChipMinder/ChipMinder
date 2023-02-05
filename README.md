@@ -1,4 +1,4 @@
-# [TheHellTower](https://github.com/TheHellTower)
+# [ChipMinder](https://github.com/ChipMinder)
 
 ## 📡 Socials
 
